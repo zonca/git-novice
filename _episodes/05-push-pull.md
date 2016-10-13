@@ -1,7 +1,7 @@
 ---
 title: Pushing and Pulling to and from GitHub
-teaching: 30
-exercises: 0
+teaching: 15
+exercises: 5
 questions:
 - "How do I share my changes with others on the web?"
 objectives:
