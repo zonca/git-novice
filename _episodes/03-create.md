@@ -54,6 +54,7 @@ $ ls -a
 {: .bash}
 
 We should see a pristine Git repository with a README file:
+
 ~~~
 .	..	.git	README
 ~~~
