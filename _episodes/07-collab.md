@@ -39,11 +39,11 @@ Next, the Collaborator needs to download a copy of the Owner's repository to her
 her `Desktop` folder, the Collaborator enters:
 
 ~~~
-$ git clone https://github.com/vlad/conversion.git ~/Desktop/vlad-conversion
+$ git clone https://github.com/vlad/Vlad-conversion.git
 ~~~
 {: .bash}
 
-Replace 'vlad' with the Owner's username.
+Replace the URL with the correct URL from the owner.
 
 ![After Creating Clone of Repository](../fig/github-collaboration.svg)
 
