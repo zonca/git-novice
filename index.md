@@ -9,7 +9,7 @@ waste time waiting for the other to finish, but if you work
 on your own copies and email changes back and forth things will be
 lost, overwritten, or duplicated.
 
-A solution is to this problem is to use [version control]({{ page.root }}/reference/#version-control) to
+A solution to this problem is to use [version control]({{ page.root }}/reference/#version-control) to
 manage your work. Version control is better than mailing files back and forth:
 
 *   Nothing that is committed to version control is ever lost, unless
@@ -43,7 +43,7 @@ to be shared can and should be stored in a version control system.
 
 > ## Prerequisites
 >
-> In this lesson we use Git from the Unix Shell.
+> In this lesson we use GitHub from a web browser and Git from the Unix Shell.
 > Some previous experience with the shell is expected,
 > *but isn't mandatory*.
 {: .prereq}
