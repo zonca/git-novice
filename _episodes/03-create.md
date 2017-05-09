@@ -36,8 +36,8 @@ Name your repository "[your name]-conversion" (replacing [your name]
 
 &nbsp;
 
-As soon as the repository is created, GitHub displays a page with a URL
- and some information on how to configure your local repository:
+Once the new repository is created, you will need to copy the URL displayed
+ when you click on the 'Clone or download' button:
 
 ![Creating a Repository on GitHub (Step 3)](../fig/github-create-repo-03.png)
 
